@@ -80,7 +80,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 Large screen:
 
-![Landing page large screen](asets/images/main.png)
+!(asets/images/main.png)
 
 #### <a id="comparisons-page"></a>Comparisons page
 
