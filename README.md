@@ -74,36 +74,6 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 * Use meaningful glyphicons next to links in the header.
 * Have visualization navigation on every visualizations page with an active state. See the screenshots below.
 
-### Screenshots
-
-#### <a id="landing-page"></a>Landing page
-
-Large screen:
-
-![Landing page large screen](Images/main.png)
-
-#### <a id="comparisons-page"></a>Comparisons page
-
-Large screen:
-
-![campare](https://user-images.githubusercontent.com/83755866/127489110-a9da11d9-080d-42bd-9602-59b2c054295a.png)
-
-
-#### <a id="data-page"></a>Data page
-
-Large screen:
-
-![data](https://user-images.githubusercontent.com/83755866/127489120-f6da7db0-df99-48cb-8825-91a8ef499e8a.png)
-
-
-#### <a id="visualization-pages"></a>Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
-
-Large screen:
-
-![temp](https://user-images.githubusercontent.com/83755866/127489133-f27c4be4-496f-4239-8129-6caa078ab9a3.png)
-
 
 ## Rubric
 
