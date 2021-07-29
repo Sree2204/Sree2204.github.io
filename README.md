@@ -80,8 +80,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 Large screen:
 
-![main](https://user-images.githubusercontent.com/83755866/127489081-0de21c73-5581-4786-93ab-8f0eef083baa.png)
-￼
+(assets/images/main.png)￼
 
 #### <a id="comparisons-page"></a>Comparisons page
 
