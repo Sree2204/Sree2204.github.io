@@ -80,7 +80,7 @@ Ensure your repository has regular commits (i.e. 20+ commits) and a thorough REA
 
 Large screen:
 
-![Landing page large screen](assets/images/main.png)
+![Landing page large screen](images/main.png)
 
 #### <a id="comparisons-page"></a>Comparisons page
 
