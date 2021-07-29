@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Web Visualizations</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+<!-- navigation bar -->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Weather Visualizations</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+        <li class="active"><a href="index.html">Home</a></li>
+        <li class="dropdown">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#">Plots <span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="temp.html">Temperature vs Latitude</a></li>
+            <li><a href="humidity.html">Humidity vs Latitude</a></li>
+            <li><a href="cloudiness.html">Cloudiness vs Latitude</a></li>
+            <li><a href="windspeed.html">Wind Speed vs Latitude</a></li>
+          </ul>
+        </li>
+        <li><a href="datatable.html">Data Table</a></li>
+        <li><a href="comparison.html">Comparisons</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!--visualizations container -->
+<div class="col-md-12">
+    <!-- <div class="col-md-12"> -->
+        <h3>Visualizations</h3>
+        <hr>
+        <div class="row">
+            <div class="col-3 col-md-6">
+                <a href="temp.html"><img class="pic" src="C:\Users\User\Desktop\temp.png" width="100%" alt="temprature"></a>
+            </div>
+            
+            <div class="col-3 col-md-6">
+                <a href="humidity.html"><img src="C:\Users\User\Desktop\hum.png"  width="100%" alt="humidity"></a>
+            </div>
+        
+            <div class="col-3 col-md-6">
+                <a href="cloudiness.html"><img src="C:\Users\User\Desktop\cloud.png"  width="100%" alt="cloudiness"></a>
+            </div>
+            
+            <div class="col-3 col-md-6">
+                <a href="windspeed.html"><img src="C:\Users\User\Desktop\wind.png" width="100%" alt="windspeed"></a>
+            </div>
+        </div>
+    </div>
